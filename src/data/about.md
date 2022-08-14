@@ -17,7 +17,7 @@ At Discover, I have learned how to work as a team, manage relationships, shape c
 
 - As a teenager, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
 
-- At 25, I discovered my lover for progamming as I took my Intro to Java class. I have been hooked ever since.
+- At 25, I discovered my love for progamming as I took my Intro to Java class. I have been hooked ever since.
 
 - I am now graduating with a degree in Computer Science to continue pursuing my dreams as a developer.
 
@@ -36,7 +36,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Fun facts
 
-- I am a twin (I am not the evil one).
+- I am a twin (not the evil one).
 - I am an Oregon Trail enthusiast.
 - I can't locate every country on a map.
 - I break about 30 traffic laws on a [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric scooter](https://turboant.com/) every single day.
