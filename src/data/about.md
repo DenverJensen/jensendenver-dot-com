@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a Front-End Developer for [Discover Financial Services](https://discover.com) where I build tools to support business workflow and employee performance measurement. I am graduating from [Weber State University](https://weber.edu) at the end of the year.  I am particularly interested in JavaScript and front-end development. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a Front-End Developer for [Discover Financial Services](https://discover.com) where I build tools to support business workflow and employee performance measurement. I am graduating from [Weber State University](https://weber.edu) at the end of the year(2022).  I am particularly interested in JavaScript and front-end development. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
  
 # Currently
 
