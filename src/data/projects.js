@@ -7,14 +7,16 @@ const data = [
         link: 'https://denverjensen.epizy.com/hangman',
         date: '2022-06-20',
         desc:
-            'A simple PHP hangman game for Software Engineering II.'
-            + '\nHangman.php is a standalone application that can be viewed at https://denverjensen.epizy.com/hangman'
-            + 'The application includes a full login system with salted and encrypted password authentication (SHA-256) and strong security features'
-            + 'SSL Certification is setup on the site, but my certificate may be expired at the time of viewing the project.'
-            + 'Upon login, the game initializes and selects a word from a list of pre-screened commonly used words in the english language between 5 and 9 letters'
-            + 'Users are given 12 "strikes" or "lives" before the game is ended'
-
+            'A simple PHP hangman game for Software Engineering II (Weber State University).'
+            + '\n\n Hangman.php is a standalone application that can be viewed at https://denverjensen.epizy.com/hangman.'
+            + '\nThe application includes a full login system with salted and encrypted password authentication (SHA-256) and strong security features'
+            + '\nSSL Certification is setup on the site, but my certificate may be expired at the time of viewing. '
+            + 'Upon login, the game initializes and selects a word from a list of 10,000 pre-screened commonly used words in the english language between 5 and 9 letters. '
+            + 'Users will enter letters to guess into the application to search for their hidden word. Users are given 12 "strikes" or "lives" before the game is ended'
+            + '. When the game is over you are taken to a scoreboard. The scoreboard that is generated from the database is filtered to entries for word that had the same'
+            + ' number of letters in their word. Only the top 10 results are displayed based on the number of lives remaining so you can play over and over to knock people off the scoreboards'
             + 'upon login, the application allows you to guess letters until you get 11 strikes.',
+
     },
     //   {
     //     title: 'Harvest',
