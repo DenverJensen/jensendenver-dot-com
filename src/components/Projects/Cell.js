@@ -22,7 +22,7 @@ const Cell = ({ data }) => (
             <div className="description">
                 <p>
                     {data.desc}
-                    <br /> <br /> You can find more documentation <a href="https://github.com/DenverJensen/hangman"> here </a>
+                    <br /> <br /> You can find more documentation <a href={data.link2}> here </a>
                 </p>
             </div>
         </article>
