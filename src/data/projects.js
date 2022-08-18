@@ -25,6 +25,7 @@ const data = [
         title: 'Banking Enterprise App (React/.NET/MySQL)',
         subtitle: 'CS 3750 Software Engineering II',
         image: '/images/projects/bank.jpg',
+		link2: 'https://github.com/n8pickle/bankproject-ui',
         date: '2022-07-01',
         desc:
           'Full-Stack banking application to track account deposits, withdraws and transfers between accounts. '
@@ -37,22 +38,26 @@ const data = [
       {
         title: 'Investing Game (React/.NET/SignalR)',
         subtitle: 'A game to practice trading stocks for a company of your choice',
-        image: '/images/projects/spacepotato.jpg',
+        image: '/images/projects/invest.jpg',
+		link2: 'https://github.com/riv-2009/stock-investing-ui',
         date: '2022-07-20',
         desc:
-          'Upon launch, the investment balance is set to $10,000 and the user is requested to enter a stock ticker so that stock data can be queried. '
-          + 'daily stock prices are pulled for the entered stock beginning on a random day at least 6 months in the past, but not more than one year. '
-		  + 'users then progress through each day of stock data and are given the option to buy, sell or hold any amount of stock up to their available investment balance',
-      },
+		'Upon launch, the investment balance is set to $10,000 and the user is requested to enter a stock ticker so that stock data can be queried. '
+		+ 'daily stock prices are pulled for the entered stock beginning on a random day at least 6 months in the past, but not more than one year. '
+		+ 'users then progress through each day of stock data and are given the option to buy, sell or hold any amount of stock up to their available investment balance. '
+		+ 'Requirements included a text input, linear input, and circular input that all updated eachothers value. I was in charge of the front end of this project. '
+		+ 'Front end is styled with Material UI and React-circular-input.',
+	},
       {
-        title: 'Nerdle (React/.NET/SignalR)',
-        subtitle: 'A 2-player knock off of the classic game Boggle',
-        image: '/images/projects/catdetector.jpg',
-        date: '2022-07-30',
+		  title: 'Nerdle (React/.NET/SignalR)',
+		  subtitle: 'A 2-player knock off of the classic game Boggle',
+		  image: '/images/projects/nerdle.jpg',
+		  date: '2022-07-30',
+		  link2: 'https://github.com/DenverJensen/word-grid-ui',
         desc:
-          'A 2-person traditional remake of boggle with a simple, clean design to improve mobile viewing. '
-          + 'The application uses SignalR technology to accomplish asyncronys data calls so both players receive the same board and timer'
-		  + '',
+		'A 2-person traditional remake of boggle with a simple, clean design to improve mobile viewing. '
+          + 'The application uses SignalR technology to accomplish asyncronys data calls so both players receive the same board and timer. '
+		  + 'Each player gets 2 minutes with a randomized board of 16 letters. Vowels make up 40% of the board. I created the gameboard and UI for this project. ',
       },
 ];
 
