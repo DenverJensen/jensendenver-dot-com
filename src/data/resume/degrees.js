@@ -6,7 +6,7 @@ const degrees = [
     year: 2015,
   },
   {
-    school: 'Weber State University',
+    school: 'Weber State University - Undergrad',
     degree: 'A.A.S. Computer Science',
     link: 'https://weber.edu',
     year: 2022,
