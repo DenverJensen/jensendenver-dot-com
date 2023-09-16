@@ -1,11 +1,11 @@
 
 # Intro
 
-I am a Front-End Developer for [Discover Financial Services](https://discover.com) where I build tools to support business workflow and employee performance measurement. I am graduating from [Weber State University](https://weber.edu) at the end of the year(2022).  I am particularly interested in JavaScript and front-end development. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a Software Engineer for [Discover Financial Services](https://discover.com) where I build tools to support business workflow and employee performance measurement. I completed my Bachelor's degree in Computer Science at [Weber State University](https://weber.edu) in 2022.  I am particularly interested in JavaScript and front-end development. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
  
 # Currently
 
-At Discover, I have learned how to work as a team, manage relationships, shape culture, sell enterprise products, and build on-line interactive tools using [React](https://react.js). I primarily work as a Front-End Developer but have broad experience across Discover's stack including Node.js and MySQL.
+At Discover, I have learned how to work as a team, manage relationships, shape culture, sell enterprise products, and build on-line interactive tools using [React](https://react.js). I primarily work as a Front-End Developer in React.js but have broad experience across Discover's stack including Node.js and MySQL.
 
 # Some history
 
@@ -39,7 +39,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I am a twin (not the evil one).
 - I am an Oregon Trail enthusiast.
 - I can't locate every country on a map.
-- I break about 30 traffic laws on a [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric scooter](https://turboant.com/) every single day.
+<!-- - I break about 30 traffic laws on a [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric scooter](https://turboant.com/) every single day. -->
 - I added this page so my site wasn't just my resume.
 
 # I dream of

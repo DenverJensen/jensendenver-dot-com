@@ -26,7 +26,7 @@ const SideBar = () => (
             <p>
                 Hi, I&apos;m Denver. I like building things. I am a{' '}
                 <a href="https://weber.edu/">Weber State University</a>{' '}
-                student, and a front-end React.js developer for
+                graduate, and a software engineer for
                 <a href="https://discover.com"> Discover Financial Services</a>.
             </p>
             <ul className="actions">
