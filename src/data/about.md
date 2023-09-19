@@ -39,7 +39,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I am a twin (not the evil one).
 - I am an Oregon Trail enthusiast.
 - I can't locate every country on a map.
-<!-- - I break about 30 traffic laws on a [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric scooter](https://turboant.com/) every single day. -->
 - I added this page so my site wasn't just my resume.
 
 # I dream of
